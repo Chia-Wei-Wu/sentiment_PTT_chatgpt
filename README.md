@@ -13,7 +13,7 @@
 ## Related work
 * Jieba: Jieba is a popular Chinese text segmentation library to split Chinese text into individual words or tokens used for NLP tasks like Information Retrieval, Machine Translation, Keyword Extraction, and so on.(https://pypi.org/project/jieba/)
 * Term Frequency-Inverse Document Frequency(TF-IDF): It is a technique for assessing the importance of terms in a document collection, and it is commonly used in various tasks, including Information Retrieval, Document Similarity,  and Keyword Extraction.
-* SnowNLP: SnowNLP is a Python library designed for natural language processing tasks about the Chinese language to do Sentiment analysis.
+* SnowNLP: SnowNLP is a Python library designed for natural language processing tasks about the Chinese language to do Sentiment analysis.(https://github.com/isnowfy/snownlp)
 ## DataSet
 * Using PTT Scrapy to collect "tech_job" and "stock" board.
 * Using jieba to token and delete Stopword by our defined dictionary.

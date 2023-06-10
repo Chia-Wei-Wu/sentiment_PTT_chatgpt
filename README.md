@@ -3,7 +3,7 @@
 |組員|工作分配|
 |-|-|
 |吳家瑋|PTT Scrapy, Code(PTT Data processing, cnsenti(failed)), GitHub, PPT|
-|王玓澄|Code(Facebook-Scraper, FB Data Processing(Jieba, textblob), Bert-Chinese-Text-Classification-Pytorch, SnowNLP, CSentiPackage(NTUSD only)), PPT|
+|王玓澄|Code(Facebook-Scraper, FB Data Processing, Sentiment), PPT|
 |郭達穎|Code(TF-IDF, WordCloud), PPT|
 |李皓鈞|PTT Scrapy, Code(textblob(failed),snownlp), PPT|
 ## Motivation
@@ -28,7 +28,7 @@
 * Classification by “date” with content having keyword “Chatgpt”. 
 ### TF-IDF result
 * Stock WordCloud
-![image]("https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/image/stock_TFIDF_wordcloud.jpg")
+![image text]("https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/image/stock_TFIDF_wordcloud.jpg")
 ### Sentiment analysis
 
 ### FaceBook analysis

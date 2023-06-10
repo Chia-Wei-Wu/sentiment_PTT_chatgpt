@@ -22,13 +22,21 @@
 ## Experiment
 ### PTT analysis 
 #### About Data
-* Using PTT Scrapy to collect "tech_job" and "stock" board.
+* Using PTT Scrapy to collect "Tech_Job" and "stock" board.
 * Using jieba to token and delete Stopword by our defined dictionary.
 * Classification by “date” with title having keyword “Chatgpt”.
-* Classification by “date” with content having keyword “Chatgpt”. 
+* Classification by “date” with content having keyword “Chatgpt”.
+* The statistic about our dataset.
+* ![image](image/statistic.jpg)
 ### TF-IDF result
+* Tech_Job topN
+* ![image](image/tec_TFIDF.jpg)
+* Tech_Job WordCloud
+* ![image](image/tec_TFIDF_wordcloud.jpg)
+* Stock topN
+* ![image](image/stock_TFIDF.jpg)
 * Stock WordCloud
-![image](image/stock_TFIDF_wordcloud.jpg)
+* ![image](image/stock_TFIDF_wordcloud.jpg)
 ### Sentiment analysis
 
 ### FaceBook analysis

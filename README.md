@@ -28,7 +28,7 @@
 * Classification by “date” with content having keyword “Chatgpt”.
 * The statistic about our dataset.
 * ![image](image/statistic.jpg)
-### TF-IDF result
+#### TF-IDF result
 * Tech_Job topN
 * ![image](image/tec_TFIDF.jpg)
 * Tech_Job WordCloud 
@@ -37,11 +37,20 @@
 * ![image](image/stock_TFIDF.jpg)
 * Stock WordCloud
 * ![image](image/stock_TFIDF_wordcloud.jpg)
-### Sentiment analysis
-* PTT sentiment analysis
+#### Sentiment analysis
+* PTT sentiment analysis by SnowNLP.
 * ![image](image/PTT_sentiment.jpg)
 ### FaceBook analysis
-### Future prospects
+#### About dataset
+* Using Facebook-scraper to collect data.
+* Using jieba to token and delete Stopword by our defined dictionary.
+* Using Bert-Chinese-Text-Classification-Pytorch to sentiment analysis.
+* Using SnowNLP to sentiment analysis.
+
+#### TF-IDF result
+
+#### Sentiment analysis
+## Future prospects
 * Optimize word segmentation method.
 * Discuss other PTT boards.
 * Discuss other social media platforms like FB, Twitter.

@@ -28,7 +28,7 @@
 * Classification by “date” with content having keyword “Chatgpt”. 
 ### TF-IDF result
 * Stock WordCloud
-![image text]("image/stock_TFIDF_wordcloud.jpg")
+![image](image/stock_TFIDF_wordcloud.jpg)
 ### Sentiment analysis
 
 ### FaceBook analysis

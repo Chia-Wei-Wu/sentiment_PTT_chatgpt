@@ -22,7 +22,7 @@
 ## Experiment
 ## TF-IDF result
 * Stock WordCloud
-![](image/stock_TFIDF_wordcloud.jpg")
+![image](image/stock_TFIDF_wordcloud.jpg")
 ## Sentiment Analysis
 ## Future prospects
 * Optimize word segmentation method.

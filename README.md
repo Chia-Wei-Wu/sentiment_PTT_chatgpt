@@ -53,6 +53,6 @@
 ## Future prospects
 * Optimize word segmentation method.
 * Discuss other PTT boards.
-* Discuss other social media platforms like FB, Twitter.
+* Discuss other social media platforms like IG, Twitter.
 * Improve sentiment analysis techniques like using transform model.
 * More models to do ensemble to get better result.

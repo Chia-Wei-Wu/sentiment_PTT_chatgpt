@@ -1,5 +1,4 @@
 # Exploring People Sentiment towards ChatGPT on PTT
-db-e-commerce-system for 2023 NCCU DBMS
 ## Contributors
 |組員|工作分配|
 |-|-|

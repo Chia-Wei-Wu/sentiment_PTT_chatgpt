@@ -27,7 +27,7 @@
 * Classification by “date” with title having keyword “Chatgpt”.
 * Classification by “date” with content having keyword “Chatgpt”.
 * The statistic about our dataset.
-* ![image](image/statistic.jpg)
+    ![image](image/statistic.jpg)
 ### TF-IDF result
 * Tech_Job topN
  ![image](image/tec_TFIDF.jpg)

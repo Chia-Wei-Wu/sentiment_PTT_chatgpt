@@ -22,7 +22,7 @@
 ## Experiment
 ## TF-IDF result
 * Stock WordCloud
-![image]("image/stock_TFIDF_wordcloud.jpg")
+![image]("https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/image/stock_TFIDF_wordcloud.jpg")
 ## Sentiment Analysis
 ## Future prospects
 * Optimize word segmentation method.

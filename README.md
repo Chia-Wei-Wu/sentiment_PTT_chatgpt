@@ -28,7 +28,7 @@
 * Classification by “date” with content having keyword “Chatgpt”. 
 ### TF-IDF result
 * Stock WordCloud
-![image text]("https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/image/stock_TFIDF_wordcloud.jpg")
+![image text]("image/stock_TFIDF_wordcloud.jpg")
 ### Sentiment analysis
 
 ### FaceBook analysis

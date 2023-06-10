@@ -2,8 +2,8 @@
 ## Contributors
 |組員|工作分配|
 |-|-|
-|吳家瑋|PTT Scrapy, Code(Data processing, cnsenti(fail)), GitHub, PPT|
-|王玓澄|Code(Facebook-Scraper(Uudo)), PPT|
+|吳家瑋|PTT Scrapy, Code(PTT Data processing, cnsenti(fail)), GitHub, PPT|
+|王玓澄|Code(Facebook Scrapy(Uudo), FB Data Processing), PPT|
 |郭達穎|Code(TF-IDF, WordCloud), PPT|
 |李皓鈞|PTT Scrapy、Code(textblob(fail),snownlp), PPT|
 ## Motivation

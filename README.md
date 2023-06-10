@@ -44,12 +44,12 @@
 #### About dataset
 * Using Facebook-scraper to collect data.
 * Using jieba to token and delete Stopword by our defined dictionary.
-* Using Bert-Chinese-Text-Classification-Pytorch to sentiment analysis.
-* Using SnowNLP to sentiment analysis.
 
 #### TF-IDF result
 
 #### Sentiment analysis
+* Using Bert-Chinese-Text-Classification-Pytorch to sentiment analysis.
+* Using SnowNLP to sentiment analysis.
 ## Future prospects
 * Optimize word segmentation method.
 * Discuss other PTT boards.

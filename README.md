@@ -38,7 +38,8 @@
 * Stock WordCloud
 * ![image](image/stock_TFIDF_wordcloud.jpg)
 ### Sentiment analysis
-
+* PTT sentiment analysis
+* ![image](image/PTT_sentiment.jpg)
 ### FaceBook analysis
 ### Future prospects
 * Optimize word segmentation method.

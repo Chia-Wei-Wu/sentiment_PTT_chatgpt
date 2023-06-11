@@ -46,10 +46,15 @@
 * Using jieba to token and delete Stopword by our defined dictionary.
 
 #### TF-IDF result
-
+* You can find the result in the "Bert-Chinese-Text-Classification-Pytorch" folder.
+* It creates by jieba.
 #### Sentiment analysis
-* Using Bert-Chinese-Text-Classification-Pytorch to sentiment analysis.
-* Using SnowNLP to sentiment analysis.
+* The result of group "ChatGPT_生活運用"
+* ![image](image/ChatGPT_生活運用.jpg)
+* The result of group "ChatGPT_TW"
+* ![image](image/ChatGPT_TW.jpg)
+* The result of group "ChatGPT_CH"
+* ![image](image/ChatGPT_CH.jpg)
 ## Future prospects
 * Optimize word segmentation method.
 * Discuss other PTT boards.

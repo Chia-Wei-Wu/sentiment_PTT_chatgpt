@@ -1,9 +1,9 @@
-# Exploring People Sentiment towards ChatGPT on PTT
+# Exploring the Emotional Intentions of Social Media Users Towards ChatGPT
 
 <p align="center">
-📃 (./doc/paper)<b>Paper</b></a>  
+📃 (./doc/Paper.pdf)<b>Paper</b></a>  
 •
-📎 (./doc/presentation)<b>Presentation</b></a>
+📎 (./doc/Presentation.pdf)<b>Presentation</b></a>
 
 
 ## Contributors

@@ -1,4 +1,4 @@
-# Exploring the Emotional Intentions of Social Media Users Towards ChatGPT
+# Exploring the sentiment of social media users towards ChatGPT.
 
 <p align="center">
 📃 <a href="https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/docs/Paper.pdf" target="_blank"><b>Paper</b></a>  

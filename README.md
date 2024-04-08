@@ -1,9 +1,9 @@
 # Exploring the Emotional Intentions of Social Media Users Towards ChatGPT
 
 <p align="center">
-📃 [Paper](docs/Paper.pdf)
+📃 <a href="https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/docs/Paper.pdf" target="_blank"><b>Paper</b></a>  
 •
-📎 [Presentation](docs/Presentation.pdf)
+📎 <a href="https://github.com/Chia-Wei-Wu/sentiment_PTT_chatgpt/blob/main/docs/Presentation.pdf" target="_blank"><b>Presentation</b></a>  
 
 ## Contributors
 |組員|工作分配|

@@ -1,4 +1,11 @@
 # Exploring People Sentiment towards ChatGPT on PTT
+
+<p align="center">
+📃 (./doc/paper)<b>Paper</b></a>  
+•
+📎 (./doc/presentation)<b>Presentation</b></a>
+
+
 ## Contributors
 |組員|工作分配|
 |-|-|

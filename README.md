@@ -1,9 +1,9 @@
 # Exploring the Emotional Intentions of Social Media Users Towards ChatGPT
 
 <p align="center">
-📃 [Paper](./doc/Paper.pdf)
+📃 [Paper](doc/Paper.pdf)
 •
-📎 [Presentation](./doc/Presentation.pdf)
+📎 [Presentation](doc/Presentation.pdf)
 
 ## Contributors
 |組員|工作分配|
